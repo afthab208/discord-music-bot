@@ -2,7 +2,7 @@ module.exports = {
     "prefix": "!",
     "token_bot": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",//bot wont work without this
     "inviteURI": "invite url for your bot",
-    "supportServer": "Support_server_link" 
+    "supportServer": "Support_server_link",
      "colors": {
       "error": "0xFF0000",
       "success": "0x00FF46",///u can replace these colours too :D
